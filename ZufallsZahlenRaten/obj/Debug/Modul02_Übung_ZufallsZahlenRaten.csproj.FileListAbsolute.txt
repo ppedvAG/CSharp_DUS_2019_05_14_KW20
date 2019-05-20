@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\ZufallsZahlenRaten\bin\Debug\ZufallsZahlenRaten.exe.config
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\ZufallsZahlenRaten\bin\Debug\ZufallsZahlenRaten.exe
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\ZufallsZahlenRaten\bin\Debug\ZufallsZahlenRaten.pdb
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\ZufallsZahlenRaten\obj\Debug\Modul02_Übung_ZufallsZahlenRaten.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\ZufallsZahlenRaten\obj\Debug\Modul02_Übung_ZufallsZahlenRaten.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\ZufallsZahlenRaten\obj\Debug\ZufallsZahlenRaten.exe
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\ZufallsZahlenRaten\obj\Debug\ZufallsZahlenRaten.pdb

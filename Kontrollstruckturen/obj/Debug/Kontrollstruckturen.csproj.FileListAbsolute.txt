@@ -1,0 +1,7 @@
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Kontrollstruckturen\bin\Debug\Kontrollstruckturen.exe.config
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Kontrollstruckturen\bin\Debug\Kontrollstruckturen.exe
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Kontrollstruckturen\bin\Debug\Kontrollstruckturen.pdb
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Kontrollstruckturen\obj\Debug\Kontrollstruckturen.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Kontrollstruckturen\obj\Debug\Kontrollstruckturen.exe
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Kontrollstruckturen\obj\Debug\Kontrollstruckturen.pdb
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Kontrollstruckturen\obj\Debug\Kontrollstruckturen.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\WinFormsBsp\bin\Debug\WinFormsBsp.exe.config
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\WinFormsBsp\bin\Debug\WinFormsBsp.exe
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\WinFormsBsp\bin\Debug\WinFormsBsp.pdb
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\WinFormsBsp\obj\Debug\WinFormsBsp.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\WinFormsBsp\obj\Debug\WinFormsBsp.Form1.resources
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\WinFormsBsp\obj\Debug\WinFormsBsp.Properties.Resources.resources
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\WinFormsBsp\obj\Debug\WinFormsBsp.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\WinFormsBsp\obj\Debug\WinFormsBsp.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\WinFormsBsp\obj\Debug\WinFormsBsp.exe
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\WinFormsBsp\obj\Debug\WinFormsBsp.pdb

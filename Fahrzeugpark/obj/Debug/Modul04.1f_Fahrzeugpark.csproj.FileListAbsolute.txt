@@ -1,0 +1,6 @@
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Fahrzeugpark\bin\Debug\Fahrzeugpark.dll
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Fahrzeugpark\bin\Debug\Fahrzeugpark.pdb
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Fahrzeugpark\obj\Debug\Modul04.1f_Fahrzeugpark.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Fahrzeugpark\obj\Debug\Fahrzeugpark.dll
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Fahrzeugpark\obj\Debug\Fahrzeugpark.pdb
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Fahrzeugpark\obj\Debug\Modul04.1f_Fahrzeugpark.csprojAssemblyReference.cache

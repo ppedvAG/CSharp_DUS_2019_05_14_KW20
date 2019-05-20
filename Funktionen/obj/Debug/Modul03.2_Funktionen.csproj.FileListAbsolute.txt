@@ -1,0 +1,6 @@
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Funktionen\bin\Debug\Funktionen.exe.config
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Funktionen\bin\Debug\Funktionen.exe
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Funktionen\bin\Debug\Funktionen.pdb
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Funktionen\obj\Debug\Modul03.2_Funktionen.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Funktionen\obj\Debug\Funktionen.exe
+C:\Users\kh2\source\repos\CSharp_Duesseldorf\Funktionen\obj\Debug\Funktionen.pdb
